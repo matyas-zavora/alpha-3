@@ -21,11 +21,8 @@ This project was made by [Matyáš Závora](https://www.linkedin.com/in/matyas-z
 
 - [<u><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80"></u>](https://www.apachefriends.org/index.html) (
   or any other web server)
--
-A [<u><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80"></u>](https://www.mysql.com)
-database
-    - Note: It is already present
-      in [<u><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80"></u>](https://www.apachefriends.org/index.html)
+- A [<u><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80"></u>](https://www.mysql.com) database
+    - Note: It is already present in [<u><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80"></u>](https://www.apachefriends.org/index.html)
 - [<u><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40"></u>](https://www.php.net/downloads.php)
   7.4 (or higher)
 - A web browser
@@ -39,14 +36,9 @@ database
 
 #### Windows
 
-1.
-Open <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80">
-or any other web server
-2. Clone this repository into the `htdocs` folder
-   of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80">
-3.
-Start <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80"/> (
-Apache should be enough) (default port is 80)
+1. Open <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80"> or any other web server
+2. Clone this repository into the `htdocs` folder of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80">
+3. Start <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="80"/> (Apache should be enough) (default port is 80)
 4. Open `localhost[:port]/alpha2` in your browser
 5. Import the database from `alpha3/database.sql` into your MySQL database
     1. Open `localhost[:port]/phpmyadmin`
@@ -58,5 +50,4 @@ Apache should be enough) (default port is 80)
     7. Click on `Go`
 
 ## Database diagram
-
 <img src="./img/doc/db_diagram.png">
