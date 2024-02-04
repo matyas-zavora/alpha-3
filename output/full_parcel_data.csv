@@ -1,0 +1,5 @@
+number,size,latitude,longitude,date_of_ownership,legal_state,type,address,zip,city,country,stake,first_name,last_name,phone,company_name,company_address,company_zip,company_city,company_country
+102,85.30,34.05,-118.24,"2024-01-26 14:17:24",leased,"zemědělské pozemky","789 Elm St",87654,"City E",CA,1.00,,,,"Company B","456 Oak St",56789,"City B",CA
+103,200.00,51.51,-0.12,"2024-01-26 14:17:24",pledged,"lesní pozemky","123 Birch St",13579,"City F",UK,0.70,Bob,Johnson,555555555,,,,,
+103,200.00,51.51,-0.12,"2024-01-26 14:17:24",pledged,"lesní pozemky","123 Birch St",13579,"City F",UK,0.30,,,,"Company C","789 Maple St",98765,"City C",UK
+101,120.50,40.71,-74.01,"2024-01-26 14:17:24",owned,"zastavěné plochy a nádvoří","456 Pine St",54321,"City D",US,,,,,,,,,
