@@ -15,9 +15,17 @@ and <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png
 This project was made by [Matyáš Závora](https://www.linkedin.com/in/matyas-zavora/) (me)
 <br><a href="https://www.linkedin.com/in/matyas-zavora/"><img src="https://avatars.githubusercontent.com/u/105340917?v=4" width=10%></a>
 
-#### Grade(s): TBA
+#### Grade(s):
 
-This project uses the ext-mysqli extension for PHP, which is not included in the default PHP installation.
+|           Percent score            |   53%    |
+|:----------------------------------:|:--------:|
+|            Czech grade             |  __3__   |
+|  Configurability and universality  | __83%__  |
+|  Architecture and design patterns  | __34%__  |
+|   Usability and program control    | __90%__  |
+|     Correctness and efficiency     | __48%__  |
+|     Testing and error handling     | __46%__  |
+| Documentation and code readability | __43%__ |
 
 ### Prerequisites
 
